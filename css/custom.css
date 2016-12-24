@@ -15,7 +15,7 @@ body {
   ), url(../img/costumeShop.jpg);
   height: 50%;
   background-repeat: none;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   /*background-position: center center;*/
   background-position: 0 0;
   -webkit-background-size: cover;
@@ -33,5 +33,5 @@ body {
 }
 
 .title {
-  color: #47adcb;  
+  color: #47adcb;
 }
