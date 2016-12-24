@@ -1,4 +1,7 @@
-.check-customCSS {
-  color: blue;
-  background-color: red;
+body {
+  height: 100vh;
+}
+
+.item {
+  height: 50vh;
 }
